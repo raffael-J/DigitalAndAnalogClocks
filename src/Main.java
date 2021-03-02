@@ -7,9 +7,6 @@ public class Main {
 
         new AnalogTimer(clockTimer);
         new DigitalTimer(clockTimer);
-        //tESET Kommentatr
-        //Komm1234
-        //Commiut cmd
     }
 
 }
